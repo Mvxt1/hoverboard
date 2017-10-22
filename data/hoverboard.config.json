@@ -1,13 +1,13 @@
 {
   "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "startDate": "Date to announce",
+  "endDate": "Date to announce",
   "analytics": {
     "prod": "UA-43643469-8",
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
+    "name": "GDG Maputo",
     "twitter": "gdglviv"
   },
   "webapp": {
@@ -42,10 +42,6 @@
     {
       "route": "home",
       "permalink": "/"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
     },
     {
       "route": "schedule",
@@ -84,17 +80,17 @@
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Barclays Incubator",
+    "address": "",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": -25.972270,
+      "longitude": 32.588161,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": -25.972270,
+      "longitude": 32.588161
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -103,7 +99,6 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
@@ -114,58 +109,49 @@
   },
   "pages": {
     "home": {
-      "title": "Home",
+      "title": "PAGINA INICIAL",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#455A64",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
-        },
         "hideLogo": true,
         "minHeight": "360px"
       }
     },
-    "blog": {
-      "title": "Blog",
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
     "speakers": {
-      "title": "Speakers",
+      "title": "PALESTRANTES",
       "headerSettings": {
         "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
+		"hideLogo": true,
         "tabBarColor": "#fff"
       }
     },
     "schedule": {
-      "title": "Schedule",
+      "title": "PROGRAMA",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
+		"hideLogo": true,
         "tabBarColor": "#fff"
       }
     },
     "team": {
-      "title": "Team",
+      "title": "EQUIPE",
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",
+		"hideLogo": true,
         "tabBarColor": "#fff"
       }
     },
     "cod": {
-      "title": "Code of Conduct",
+      "title": "Codigo de Conduta",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
+		"hideLogo": true,
         "tabBarColor": "#fff"
       }
     }
