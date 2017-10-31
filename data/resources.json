@@ -1,13 +1,13 @@
 {
-  "title": "GDG DevFest Maputo 2016",
+  "title": "GDG DevFest Maputo 2017",
   "description": "O maior festival sobre tecnologias Google para developers organizado  pela comunidade GDG de Maputo! Tudo sobre Android, Web, Cloud e  mais.",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "25 DE NOVEMBRO DE 2016",
   "locationAddressShort": "Maputo, Moçambique",
-  "motto": "Aprenda   o maximo sobre angularJS, firebase, progressive web apps, material design e mais tecnologias Google",
+  "motto": "Venha aprender  o maximo sobre angularJS, firebase, progressive web apps, material design e mais tecnologias Google",
   "playIcon": "Ver como foi em 2016",
-  "c4p": "Become a speaker",
-  "buyTicket": "Comprar bilhete",
+  "c4p": "Tornar-se um speaker",
+  "buyTicket": "COMPRAR BILHETE",
   "backToTop": "Back to top",
   "subscribe": "Subscribe",
   "yourEmail": "Seu email",
@@ -122,20 +122,20 @@
   "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
   "statistics": [
     {
-      "counter": 600,
-      "caption": "Attendees"
+      "counter": "+150",
+      "caption": "Participantes"
     },
     {
-      "counter": 2,
-      "caption": "Days"
-    },
-    {
-      "counter": 30,
-      "caption": "Sessions"
+      "counter": 10,
+      "caption": "Horas"
     },
     {
       "counter": 3,
-      "caption": "Tracks"
+      "caption": "Sessoes"
+    },
+    {
+      "counter": 2,
+      "caption": "Trilhas"
     }
   ],
   "callToAction": {

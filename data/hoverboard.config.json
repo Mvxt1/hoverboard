@@ -89,8 +89,8 @@
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": -25.972270,
+      "longitude": 32.588161
     },
     "images": [
       "/images/backgrounds/sbincubator1.jpg",
@@ -99,7 +99,6 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
@@ -110,34 +109,22 @@
   },
   "pages": {
     "home": {
-      "title": "Início",
+      "title": "PÁGINA INICIAL",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#455A64",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
-        },
         "hideLogo": true,
         "minHeight": "360px"
       }
     },
-    "blog": {
-      "title": "Blog",
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
     "speakers": {
-      "title": "Speakers",
+      "title": "PALESTRANTES",
       "headerSettings": {
         "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
+		"hideLogo": true,
         "tabBarColor": "#fff"
       }
     },
@@ -146,6 +133,7 @@
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
+		"hideLogo": true,
         "tabBarColor": "#fff"
       }
     },
@@ -154,6 +142,7 @@
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",
+		"hideLogo": true,
         "tabBarColor": "#fff"
       }
     },
@@ -162,6 +151,7 @@
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
+		"hideLogo": true,
         "tabBarColor": "#fff"
       }
     }
