@@ -1,14 +1,14 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "https://devfestmaputo.firebaseapp.com/",
+  "startDate": "2017-09-18T09:00:00+03:00",
+  "endDate": "2017-09-18T19:00:00+03:00",
   "analytics": {
     "prod": "UA-43643469-8",
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Maputo",
+    "twitter": "gdgmaputo"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -16,10 +16,10 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "devfestmaputo",
+    "domain": "devfestmaputo.firebaseapp.com",
+    "database": "https://devfestmaputo.firebaseio.com",
+    "api": "AIzaSyBP7dIaa9ELiZujHIeL0d-W9JwpLmkN3xw",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -44,10 +44,6 @@
       "permalink": "/"
     },
     {
-      "route": "blog",
-      "permalink": "/blog/"
-    },
-    {
       "route": "schedule",
       "permalink": "/schedule/"
     },
@@ -63,33 +59,33 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGMaputo",
+      "url": "https://twitter.com/gdgmaputo"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "GDG Maputo",
+      "url": "https://plus.google.com/b/114866320150074768018/"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "nickname": "GDG Maputo",
+      "url": "https://web.facebook.com/gdgmaputo/"
     },
     {
       "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "google-developers-group-maputo",
+      "url": "https://web.facebook.com/gdgmaputo/"
     }
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Standard Bank Incubator",
+    "address": "Rua dos Desportistas #119, 1º andar, Maputo, mozambique",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": -25.931339,
+      "longitude":  32.587911,
       "zoom": 15
     },
     "mapCenter": {
@@ -97,9 +93,9 @@
       "longitude": 23.982805
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/sbincubator1.jpg",
+      "/images/backgrounds/sbincubator.jpg",
+      "/images/backgrounds/sbincubator2.jpg"
     ]
   },
   "gallery": {
@@ -114,7 +110,7 @@
   },
   "pages": {
     "home": {
-      "title": "Home",
+      "title": "Início",
       "headerSettings": {
         "backgroundColor": "#FF9800",
         "backgroundImage": "/images/backgrounds/home.png",
@@ -146,7 +142,7 @@
       }
     },
     "schedule": {
-      "title": "Schedule",
+      "title": "Agenda",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
@@ -154,7 +150,7 @@
       }
     },
     "team": {
-      "title": "Team",
+      "title": "Equipe",
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",
@@ -162,7 +158,7 @@
       }
     },
     "cod": {
-      "title": "Code of Conduct",
+      "title": "Código de Conducta",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",

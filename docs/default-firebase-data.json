@@ -1,59 +1,31 @@
 {
   "partners" : [ {
     "logos" : [ {
-      "logoUrl" : "../images/logos/gdg-lviv.svg",
-      "name" : "GDG Lviv",
-      "url" : "https://plus.google.com/102444623953913144164",
+      "logoUrl" : "../images/logos/google.svg",
+      "name" : "Google",
+      "url" : "https://google.com",
       "width" : 170
     } ],
-    "title" : "Template Creator"
+    "title" : "Apoio"
   }, {
     "logos" : [ {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
+      "logoUrl" : "../images/logos/standard-bank-logo.png",
+      "name" : "Standard Bank",
+      "url" : "standardbank.co.mz/"
     }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
+      "logoUrl" : "../images/logos/cenfoss-logo",
+      "name" : "CENFOSS",
+      "url" : "http://www.cenfoss.co.mz/"
     }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
+      "logoUrl" : "../images/logos/muthiana-code.png",
+      "name" : "Muthiana Code",
+      "url" : "https://web.facebook.com/Muthiana-Code-689014971286516/?_rdc=1&_rdr"
     }, {
       "logoUrl" : "../images/logos/google.svg",
       "name" : "Google",
       "url" : "https://www.google.com.ua/intl/en/about/"
     } ],
-    "title" : "General Partner"
+    "title" : "Parceiros"
   } ],
   "schedule" : [ {
     "date" : "2016-09-09",
