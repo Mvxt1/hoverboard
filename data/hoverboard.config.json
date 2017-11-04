@@ -84,13 +84,13 @@
     "address": "Rua dos Desportistas #119, 1º andar, Maputo, mozambique",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": -25.931339,
-      "longitude":  32.587911,
-      "zoom": 15
+      "latitude": -25.9768764,
+      "longitude":  32.5794532,
+      "zoom": 16
     },
     "mapCenter": {
-      "latitude": -25.972270,
-      "longitude": 32.588161
+      "latitude": -25.9768764,
+      "longitude": 32.5794532
     },
     "images": [
       "/images/backgrounds/sbincubator1.jpg",
@@ -123,6 +123,7 @@
       "title": "PALESTRANTES",
       "headerSettings": {
         "backgroundColor": "#3f51b5",
+		"backgroundImage": "/images/backgrounds/palestra3.jpg",
         "fontColor": "#fff",
 		"hideLogo": true,
         "tabBarColor": "#fff"
