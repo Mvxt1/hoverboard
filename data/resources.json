@@ -1,8 +1,8 @@
 {
   "title": "GDG DevFest Maputo 2017",
-  "description": "O maior festival sobre tecnologias Google para developers organizado  pela comunidade GDG de Maputo! Tudo sobre Android, Web, Cloud e  mais.",
+  "description": "O maior festival sobre tecnologias Google para developers organizado  pela comunidade GDG de Maputo! Tudo sobre Android, Web, Cloud, IoT,  e  mais.",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "25 DE NOVEMBRO DE 2016",
+  "dates": "25 DE NOVEMBRO DE 2017",
   "locationAddressShort": "Maputo, Moçambique",
   "motto": "Venha aprender  o maximo sobre angularJS, firebase, progressive web apps, material design e mais tecnologias Google",
   "playIcon": "Ver como foi em 2016",
@@ -14,26 +14,26 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "contactUs": "Contact us",
   "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+  "ticketsDetails": "Os bilhetes garantem acesso a todas as sessões ada conferência, coffee breaks, e almoço.",
   "close": "Close",
   "soldOutTickets": "Sold Out",
   "socialTitle": "Social",
-  "socialMotto": "Add to circles, like, follow or connect with us on",
-  "beforeHashtag": "What's up",
+  "socialMotto": "Adicionar aos seus circulos, gostar, seguir ou se conectar conosco em",
+  "beforeHashtag": "Actualizações",
   "clickToViewPhotos": "Clique aqui para ver mais fotos",
   "partners": "PARCEIROS",
   "becomePartner": "Torne-se um parceiro",
-  "featuredVideosTitle": "mais de  15 Sessões",
+  "featuredVideosTitle": "mais de  20 Sessões",
   "featuredVideosViewAll": "View all videos",
   "featuredPeopleTitle": "Rockstar Speakers",
   "featuredPeopleViewAll": "Ver todos speakers",
-  "action": "ver como foi",
+  "action": "ver como foi no ano passado",
   "locationTitle": "Standard Bank Incubator",
   "locationDescription": "Um espaço onde são desenvolvidos programas de capacitação de empreendedores, para além de realizar eventos como Seedstars, Google Startup weekend, Semana de Empreendedorismo assim como fazer demonstrações de produtos e serviços a disponibilizar aos clientes do banco",
   "locationAddress": "Rua dos Desportistas #119, 1º andar",
   "organizerTitle": "Organizadores",
   "aboutOrganizers": "<a href='https://plus.google.com/b/114866320150074768018/+GDGMaputo' target='_blank'>GDG Maputo</a> Um grupo de geeks apaixonados por tecnologias  google",
-  "openTeamPage": "Open team page",
+  "openTeamPage": "Ver equipe",
   "whatIsGdg": "O que é o GDG?",
   "aboutGdg": "Google Developer Group (GDG) Maputo é um grupo para desenvolveres estudantes e entusiastas com interesse em aprender tecnologias do google, ter experiência com productos como Android, GWT e outras API´s como o Google Maps, Google App Engine, Google Drive e muito mais.<br>Nossas reuniões sempre serão gratuitas e abertas ao público em geral. Nós por vezes, co-sediamos uma reunião conjunta.",
   "readMore": "Ler mais",
@@ -60,51 +60,41 @@
   "rateSession": "Rate session",
   "footerBlocks": [
     {
-      "title": "For visitors",
+      "title": "Para visitantes",
       "links": [
         {
-          "text": "Team",
+          "text": "Equipe",
           "url": "/team/",
           "newTab": false
         },
         {
-          "text": "Code of Conduct",
+          "text": "Código de contacto",
           "url": "/cod/",
           "newTab": false
         },
         {
-          "text": "Google Developers",
+          "text": "Programa GDG",
           "url": "https://developers.google.com/",
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "text": "GDG DevFest Maputo 2016",
+          "url": "",
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "text": "MozDevz",
+          "url": "http://mozdevz.org",
           "newTab": true
         }
       ]
     },
     {
-      "title": "For Partners",
+      "title": "Para parceiros",
       "links": [
         {
           "text": "Partnership Proposition",
           "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
           "newTab": true
         }
       ]
@@ -113,8 +103,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "osvaldoomaria@gmail.com",
+        "url": "mailto:osvaldoomaria@gmail.com"
       }
     ]
   },
@@ -130,7 +120,7 @@
       "caption": "Horas"
     },
     {
-      "counter": 3,
+      "counter": "20+",
       "caption": "Sessoes"
     },
     {
@@ -139,7 +129,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
+    "videoTitle": "GDG DevFest 2016",
     "videoId": "DfMnJAzOFng"
   },
   "home": "Home",
@@ -158,8 +148,8 @@
   "sessions": "Sessões",
   "tracks": "Trilhas",
   "social-title": "Social",
-  "social-motto": "Add to circles, like, follow or connect with us on",
-  "before-hashtag": "What's up",
+  "social-motto": "Adicionar aos seus circulos, gostar, seguir ou se conectar conosco em",
+  "before-hashtag": "Actualizações",
   "click-to-view-photos": "Clique para ver mais fotos",
   "become-a-partner": "",
   "general-partner": "General partner",
