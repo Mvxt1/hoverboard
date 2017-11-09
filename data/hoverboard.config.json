@@ -100,10 +100,10 @@
   },
   "gallery": {
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/people.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/2015.jpg",
+        "/images/backgrounds/food.jpg"
       ]
     }
   },
