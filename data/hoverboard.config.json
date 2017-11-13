@@ -129,15 +129,6 @@
         "tabBarColor": "#fff"
       }
     },
-    "schedule": {
-      "title": "Agenda",
-      "headerSettings": {
-        "backgroundColor": "#673ab7",
-        "fontColor": "#fff",
-		"hideLogo": true,
-        "tabBarColor": "#fff"
-      }
-    },
     "team": {
       "title": "Equipe",
       "headerSettings": {
