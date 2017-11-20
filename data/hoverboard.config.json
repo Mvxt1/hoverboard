@@ -123,9 +123,18 @@
       "title": "PALESTRANTES",
       "headerSettings": {
         "backgroundColor": "#3f51b5",
-		"backgroundImage": "/images/backgrounds/palestra3.jpg",
+		    "backgroundImage": "/images/backgrounds/palestra3.jpg",
         "fontColor": "#fff",
-		"hideLogo": true,
+		    "hideLogo": true,
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "title": "Agenda",
+      "headerSettings": {
+      "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+		    "hideLogo": true,
         "tabBarColor": "#fff"
       }
     },
@@ -134,7 +143,7 @@
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",
-		"hideLogo": true,
+		    "hideLogo": true,
         "tabBarColor": "#fff"
       }
     },
